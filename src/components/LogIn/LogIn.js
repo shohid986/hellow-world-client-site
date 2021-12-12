@@ -48,7 +48,7 @@ const LogIn = () =>  {
 
                             <Form.Group className="mb-3" controlId="formBasicPassword">
                                 <Form.Label>Email address or phone number</Form.Label>
-                                <Form.Control name="email" onBlur={handleTextFeild} type="email" placeholder="Enter phone number" />
+                                <Form.Control name="email" onBlur={handleTextFeild} type="text" placeholder="Enter phone number" />
                             </Form.Group>
                             <Form.Group className="mb-3" controlId="formBasicPassword">
                                 <Form.Label>Password</Form.Label>
