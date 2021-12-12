@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hellow-world-client-site/static/css/main.a617e044.chunk.css",
+    "main.js": "/hellow-world-client-site/static/js/main.3ec47a0e.chunk.js",
+    "main.js.map": "/hellow-world-client-site/static/js/main.3ec47a0e.chunk.js.map",
+    "runtime-main.js": "/hellow-world-client-site/static/js/runtime-main.f3bd81ec.js",
+    "runtime-main.js.map": "/hellow-world-client-site/static/js/runtime-main.f3bd81ec.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/hellow-world-client-site/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.67a03b48.chunk.js": "/hellow-world-client-site/static/js/2.67a03b48.chunk.js",
+    "static/js/2.67a03b48.chunk.js.map": "/hellow-world-client-site/static/js/2.67a03b48.chunk.js.map",
+    "static/js/3.4feb15f6.chunk.js": "/hellow-world-client-site/static/js/3.4feb15f6.chunk.js",
+    "static/js/3.4feb15f6.chunk.js.map": "/hellow-world-client-site/static/js/3.4feb15f6.chunk.js.map",
+    "index.html": "/hellow-world-client-site/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/hellow-world-client-site/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/hellow-world-client-site/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.67a03b48.chunk.js.LICENSE.txt": "/hellow-world-client-site/static/js/2.67a03b48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3bd81ec.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.67a03b48.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3ec47a0e.chunk.js"
+  ]
+}
